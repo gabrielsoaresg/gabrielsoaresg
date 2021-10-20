@@ -7,11 +7,11 @@
 
 ### - 👨‍🎓 Atualmente cursando ADS pela Faculade de Tecnologia de Guarulhos (Fatec Guarulhos) 📅 08/2020 - 08/2023.
 ### - 🔭 A procura de um estágio em tecnologia para aperfeiçoamento pessoal e profissional.
-### - 👩🏼‍💻 Atualmente estudando a linguagem: <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="23"> 
+### - 👩🏼‍💻 Atualmente estudando a linguagem de programação: <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="23"> 
 (prometo que irei postar os projetos aqui no Github e atualizar esse readme)
 ### -  📧 Email para contato: bielsgm@gmail.com
 ### - ⚡ Gosto de passar o meu tempo estudando 👨‍💻, jogando 🎮, brincando de tocar violão 🎼, jogando futebol ⚽ e ouvindo música 🎧
-### - 🧙 Um grande Fã da saga Harry Potter, 🕵🏼‍♂️ de Sherlock e 🕴🏼 Arsène Lupin
+### - 🧙 Um grande fã da saga Harry Potter, 🕵🏼‍♂️ de Sherlock e 🕴🏼 Arsène Lupin
 
 ##
 **Snake Commits:**

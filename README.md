@@ -5,7 +5,8 @@
 
 
 
-### - 👨‍🎓 Atualmente cursando ADS pela Faculade de Tecnologia de Guarulhos (Fatec Guarulhos) 📅 08/2020 - 08/2023.
+### - 👨‍🎓 Atualmente cursando ADS pela Faculade de Tecnologia de Guarulhos (Fatec Guarulhos) 
+📅 08/2020 - 08/2023.
 ### - 🔭 A procura de um estágio em tecnologia para aperfeiçoamento pessoal e profissional.
 ### - 👩🏼‍💻 Atualmente estudando a linguagem de programação: <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="23"> 
 (prometo que irei postar os projetos aqui no Github e atualizar esse readme)

@@ -1,18 +1,18 @@
 <div>
   
-  # Olá, seja bem-vindo(a) ao meu perfil, espero que encontre o que deseja em meus repositórios 😁
+  # Hello, be welcome to my profile, I hope you find what you want in my repositories 😁
   </div>
 
 
 
-### - 👨‍🎓 Atualmente cursando ADS pela Faculade de Tecnologia de Guarulhos (Fatec Guarulhos) 
+### - 👨‍🎓 Currently studying systems analysis and development at Faculdade de Tecnologia de Guarulhos (Fatec Guarulhos) 
 ### 📅 08/2020 - 08/2023.
-### - 🔭 A procura de um estágio em tecnologia para aperfeiçoamento pessoal e profissional.
-### - 👩🏼‍💻 Atualmente estudando a linguagem de programação: <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="23"> 
-#### (prometo que irei postar os projetos aqui no Github e atualizar esse readme)
-### -  📧 Email para contato: bielsgm@gmail.com
-### - ⚡ Gosto de passar o meu tempo estudando 👨‍💻, jogando 🎮, brincando de tocar violão 🎼, jogando futebol ⚽ e ouvindo música 🎧
-### - 🧙 Um grande fã da saga Harry Potter, 🕵🏼‍♂️ de Sherlock e 🕴🏼 Arsène Lupin
+### - 🔭 Looking for an internship for my personal and professional improvement
+### - 👩🏼‍💻 Currently studying the programming language: <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="23"> 
+#### (I promise I will post the projects here on Github and update this readme)
+### -  📧 Email for contact: bielsgm@gmail.com
+### - ⚡ I like to spend my time studying 👨‍💻, playing 🎮, playing the guitar  🎼, playing football ⚽ and listening to music 🎧
+### - 🧙 a big fan of the Harry Potter saga, 🕵🏼‍♂️ of Sherlock and 🕴🏼 Arsène Lupin
 
 ##
 **Snake Commits:**
@@ -43,7 +43,7 @@
   
 ##
   
-  **Contatos:**
+  **Social contact networks:**
   
  <div>
   <a href="https://web.facebook.com/gabriel.soaresgomes.1" target="_blank" rel="external"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>

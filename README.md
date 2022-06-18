@@ -8,7 +8,7 @@
 ### - 👨‍🎓 Currently studying systems analysis and development at Faculdade de Tecnologia de Guarulhos (Fatec Guarulhos) 
 ### 📅 08/2020 - 08/2023.
 ### - 🔭 Looking for an internship for my personal and professional improvement
-### - 👩🏼‍💻 Currently studying the programming language: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="23"> 
+### - 👩🏼‍💻 Currently studying the programming language: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="45"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="45">
 #### (I promise I will post the projects here on Github and update this readme)
 ### -  📧 Email for contact: bielsgm@gmail.com
 ### - ⚡ I like to spend my time studying 👨‍💻, playing 🎮, playing the guitar  🎼, playing football ⚽ and listening to music 🎧

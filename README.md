@@ -3,8 +3,8 @@
 # Olá, seja bem-vindo ao meu perfil! Espero que você encontre o que procura em meus repositórios 😁
 
 ### 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de Guarulhos (Fatec Guarulhos)
-### 📅 08/2020 - 12/2023
 ### 👨‍💻 Desenvolvedor Fullstack Jr.
+### 🎯 Interesse: Desenvolvimento Mobile
 
 ### Minhas Skills:
 <div style="display: inline_block">
@@ -33,15 +33,14 @@
   <a href="https://www.instagram.com/__gabrielsg/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-<div>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=gabrielsoaresg&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsoaresg&layout=compact&langs_count=7&theme=react"/>
-</div>
+## Total de visitas no meu perfil 🕵️ <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/gabrielsoaresg/count.svg" />
+ </p>
 
 ### Snake Commits:
 ![Snake animation](https://github.com/gabrielsoaresg/gabrielsoaresg/blob/output/github-contribution-grid-snake.svg)
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gabrielsoaresg/gabrielsoaresg">
 <img src="https://img.shields.io/github/followers/gabrielsoaresg.svg?style=social&label=Follow&maxAge=2592000">
 
 </div>

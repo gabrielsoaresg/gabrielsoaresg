@@ -5,6 +5,8 @@
 ### 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de Guarulhos (Fatec Guarulhos)
 ### 👨‍💻 Desenvolvedor Fullstack Jr.
 
+<br>
+
 ### Minhas Skills:
 <div style="display: inline_block">
   <img align="center" alt="Csharp" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
@@ -18,11 +20,15 @@
   <img align="center" alt="SQL" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
 </div>
 
+<br>
+
 ### Sobre mim:
 - 📧 Email para contato: bielsgm@gmail.com
 - 📞 Telefone: (11) 99999-5567
 - ⚡ Adoro passar meu tempo estudando 👨‍💻, jogando 🎮, tocando violão 🎼, jogando futebol ⚽ e ouvindo música 🎧
 - 🧙 Grande fã da saga Harry Potter, 🕵🏼‍♂️ de Sherlock Holmes e 🕴🏼 Arsène Lupin
+
+<br>
 
 ### Social:
 <div>
@@ -32,10 +38,14 @@
   <a href="https://www.instagram.com/__gabrielsg/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
+<br>
+
 ## Total de visitas no meu perfil 🕵️ <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/gabrielsoaresg/count.svg" />
+   <img align="center" src="https://profile-counter.glitch.me/gabrielsoaresg/count.svg" />
  </p>
+
+<br>
 
 ### Snake Commits:
 ![Snake animation](https://github.com/gabrielsoaresg/gabrielsoaresg/blob/output/github-contribution-grid-snake.svg)

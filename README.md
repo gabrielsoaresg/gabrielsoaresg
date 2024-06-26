@@ -4,7 +4,6 @@
 
 ### 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de Guarulhos (Fatec Guarulhos)
 ### 👨‍💻 Desenvolvedor Fullstack Jr.
-### 🎯 Interesse: Desenvolvimento Mobile
 
 ### Minhas Skills:
 <div style="display: inline_block">

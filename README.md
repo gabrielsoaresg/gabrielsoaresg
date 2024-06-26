@@ -34,8 +34,13 @@ Sou um grande fã da saga **Harry Potter**, do **Sherlock Holmes** e de **Arsèn
 
 ## 📫 Contato
 
-- **Email**: [bielsgm@gmail.com](mailto:bielsgm@gmail.com)
-- **Telefone**: (11) 99999-5567
+<div style="display: inline_block">
+  <a href="https://web.facebook.com/gabriel.soaresgomes.1" target="_blank" rel="external"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="mailto:bielsgm@gmail.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/soaresgomes/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.instagram.com/__gabrielsg/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://wa.me/5511999995567" target="_blank" rel="external"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</div>
 
 ## 🐍 Snake Commits
 
@@ -45,7 +50,6 @@ Sou um grande fã da saga **Harry Potter**, do **Sherlock Holmes** e de **Arsèn
 **Obrigado por visitar!** 😊
 
 <div align="center">
-  
 
 ![Total de visitas no meu perfil](https://komarev.com/ghpvc/?username=gabrielsoaresg&style=flat-square&color=blue) 
 
